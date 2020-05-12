@@ -49,6 +49,7 @@ public class MapFilterReduceDemo {
         parallelReduction((i1, i2) -> (i1 + i2) / 2, ints5, ints6);
 
         log.info("Reduction using max operation with incorrect identity element:");
+        // 0 is identity element of the max reduction only for positive integers
         List<Integer> ints7 = Arrays.asList(-1, -2, -3, -4);
         log.info("Max reduction of list: {} should be  -1   ", ints7);
         sequentialReduction(Integer::max, 0, ints7);
