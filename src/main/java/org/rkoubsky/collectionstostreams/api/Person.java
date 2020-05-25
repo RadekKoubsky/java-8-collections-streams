@@ -1,4 +1,4 @@
-package org.rkoubsky.lambdas.api;
+package org.rkoubsky.collectionstostreams.api;
 
 import lombok.Value;
 

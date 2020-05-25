@@ -1,4 +1,4 @@
-package org.rkoubsky.functions;
+package org.rkoubsky.collectionstostreams.functions;
 
 import com.google.common.base.Predicates;
 import lombok.extern.log4j.Log4j2;

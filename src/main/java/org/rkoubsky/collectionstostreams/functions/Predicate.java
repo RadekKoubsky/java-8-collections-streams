@@ -1,4 +1,4 @@
-package org.rkoubsky.functions;
+package org.rkoubsky.collectionstostreams.functions;
 
 /**
  * @author Radek Koubsky

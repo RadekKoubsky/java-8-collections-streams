@@ -1,4 +1,4 @@
-package org.rkoubsky.collections;
+package org.rkoubsky.collectionstostreams.collections;
 
 import lombok.Value;
 

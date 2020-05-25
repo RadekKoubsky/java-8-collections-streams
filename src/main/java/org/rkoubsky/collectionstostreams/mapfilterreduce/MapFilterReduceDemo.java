@@ -1,4 +1,4 @@
-package org.rkoubsky.mapfilterreduce;
+package org.rkoubsky.collectionstostreams.mapfilterreduce;
 
 import lombok.extern.log4j.Log4j2;
 
