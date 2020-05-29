@@ -1,4 +1,4 @@
-package org.rkoubsky.dataprocessing.stream.collectors;
+package org.rkoubsky.dataprocessing.stream.collectors.jdk;
 
 import lombok.extern.log4j.Log4j2;
 
