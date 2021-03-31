@@ -17,7 +17,7 @@
         <log4j-core.version>2.7</log4j-core.version>
         <lombok.version>1.18.0</lombok.version>
         <commons-io.version>2.6</commons-io.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
